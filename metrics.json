@@ -1,0 +1,9 @@
+{
+  "dataset": "synthetic loan-approval data (5000 rows)",
+  "accuracy": 0.8528,
+  "approval_rate_group_A": 0.6173,
+  "approval_rate_group_B": 0.4283,
+  "demographic_parity_difference": 0.189,
+  "disparate_impact_ratio": 0.6938,
+  "note": "A disparate impact ratio below 0.8 may indicate adverse impact (the 'four-fifths rule')."
+}
